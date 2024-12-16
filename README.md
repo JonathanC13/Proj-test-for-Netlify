@@ -13,6 +13,9 @@ Completed independently and then watched their implementation.
 1. react-router (https://reactrouter.com/)
     > npm install react-router-dom -save
 
+## Deployed
+Currently at: https://proj-test-deploy.netlify.app/
+
 ## To run
 1. Install dependencies
     > npm install
